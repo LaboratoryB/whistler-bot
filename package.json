@@ -1,0 +1,24 @@
+{
+  "name": "whistler-bot",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Doug Smith <sorry@nothanks.org>",
+  "description": "An IRC bot for making crank calls.",
+  "scripts": {
+    "start": "node ./runBot.js"
+  },
+  "main": "./runBot.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/http-server.git"
+  },
+  "keywords": [
+    "irc",
+    "bot",
+    "asterisk"
+  ],
+  "dependencies" : {
+    "irc"   :  "*",
+    "exec-sync"   :  "*"
+  }
+}
