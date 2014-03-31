@@ -1,0 +1,5 @@
+Channel: {CHANNEL}
+Context: {CONTEXT}
+Extension: s
+Priority: 1
+Setvar: filename={FILENAME}

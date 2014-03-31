@@ -1,0 +1,3 @@
+Channel: LOCAL/s@{CONTEXT}
+Application: Playback
+Data: {FILENAME}

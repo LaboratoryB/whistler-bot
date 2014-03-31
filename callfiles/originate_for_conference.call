@@ -1,0 +1,4 @@
+Channel: {CHANNEL}
+Context: crankmonitor
+Extension: s
+Priority: 1
